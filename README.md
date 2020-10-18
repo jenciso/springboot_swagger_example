@@ -1,6 +1,6 @@
 # Rest Service Documentation using Swagger
 
-## Get Startded
+## Getting Started
 
 Build the artifact
 
