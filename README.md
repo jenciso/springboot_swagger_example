@@ -33,3 +33,8 @@ Run it
 ```shell
 docker run -p 8080:8080 --rm spring-boot-web:0.0.1:latest
 ```
+
+Test the application
+```shell
+curl -vs http://localhost/swagger-ui.html
+```
